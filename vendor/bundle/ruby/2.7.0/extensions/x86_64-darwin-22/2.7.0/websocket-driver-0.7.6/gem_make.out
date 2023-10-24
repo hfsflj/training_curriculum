@@ -1,0 +1,16 @@
+current directory: /Users/sunow/projects/training_curriculum/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/sunow/.rbenv/versions/2.7.7/bin/ruby -I /Users/sunow/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20231024-7979-18m6xdd.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sunow/projects/training_curriculum/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/sunow/projects/training_curriculum/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/sunow/projects/training_curriculum/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20231024-7979-18oouos
